@@ -1,2 +1,26 @@
 # Signal-Pay
 Signal Pay is a complete payment solution app based on UPI, specially crafted to fit the needs of future Bharat integrating Banks, UPI, IVR and Crypto.
+![01—Title](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/9b0f7399-d5c0-40f3-ab40-cb08ec8a4053)
+
+
+![6  IVR based payments](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/34b761da-1832-4c84-b7fe-0585bb6f09ea)
+![05—Seamless Payments](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/f23ae71e-4647-469f-a115-ce8ab861777e)
+![04—Solution](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/d5da100f-41f9-4161-bbce-1ad2a5641ce3)
+![03—Problem](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/f3ff8d5b-e65b-44ce-b9e7-e39464803bbf)
+![02—Mission Statement](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/e7eb28ab-6bb3-4577-8dcd-8d2a9f62e56f)
+![22—Timeline](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/6baa0a14-00d7-4b84-8d21-e1ee01733f1f)
+![21—Team](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/ea238259-89d4-4ae6-a9f0-09d036510617)
+![20—Tech](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/67018de1-7b93-47b3-8a2e-eee131a3765a)
+![19 Trajectory](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/4362df4a-fc86-4c6b-9205-f93ee0ac951b)
+![18 User stories](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/84dbad68-fe5d-4210-bea4-9b4e418e29fa)
+![17 Potential](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/d1bfa51b-c4b1-4bb3-9a0f-af114a838111)
+![16—Business Model](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/0475a9e1-1ef6-48c2-a6db-17a00ad82efe)
+![15—Growth](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/31393227-4a5c-43c6-a653-38cce44fefc5)
+![14—Differentiation](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/caec0b9f-6f6a-46cb-916c-6b755a4b3dee)
+![13  Competition](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/5ed1dfee-de35-456e-8937-5f7d9da1ec92)
+![12—Market Opportunity](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/975679a6-312b-414c-ab24-7a0e285da067)
+![11 Innovation](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/fdb4ec07-98ae-41f8-9f44-ca055554fd71)
+![10 Credits](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/04e92af6-3d08-4801-b451-cc621d80b9ce)
+![09—sRupee](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/f022eadc-5cd5-45b8-9f40-3e8d2e423263)
+![08—eRupee](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/87debdc6-605b-414f-b40d-59c4919ce461)
+![7  Payment Hotspot](https://github.com/yeshrealstar/Signal-Pay/assets/36561348/8a2f1c12-b93d-474f-adcc-08ba24ab0d9d)
